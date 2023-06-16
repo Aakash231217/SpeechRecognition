@@ -1,7 +1,7 @@
 Speech Recognition
 ==================  
 
-[Live Website](https://utkarshpathrabe.github.io/Speech-Recognition/)  
+[Live Website](https://speech-recognition-nine.vercel.app/)  
 
 Speech Recognition website created using JavaScript.  
 
